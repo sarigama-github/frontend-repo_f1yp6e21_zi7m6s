@@ -18,7 +18,7 @@ function App() {
         <Contact />
       </main>
       <footer className="relative border-t border-white/10 py-10 text-center text-blue-200/70">
-        <p>© {new Date().getFullYear()} Your Name — Process Improvement & AI</p>
+        <p>© {new Date().getFullYear()} Idan Schorr — Innovation & AI</p>
       </footer>
     </div>
   )

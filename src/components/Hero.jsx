@@ -9,16 +9,16 @@ export default function Hero() {
       </div>
 
       <div className="relative z-10 max-w-7xl mx-auto px-6 pt-36 pb-24">
-        <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.9, ease: 'easeOut' }} className="max-w-2xl">
+        <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.9, ease: 'easeOut' }} className="max-w-3xl">
           <span className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/10 border border-white/15 text-white/80 text-xs backdrop-blur">
             <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-            Process Improvement • AI Automation • Analytics
+            Innovation • AI • Change
           </span>
           <h1 className="mt-6 text-5xl sm:text-6xl font-black tracking-tight text-white drop-shadow-[0_8px_40px_rgba(59,130,246,0.35)]">
-            Smarter Operations with AI-driven Process Design
+            Idan Schorr — AI-Enabled Process Optimisation
           </h1>
           <p className="mt-6 text-lg text-blue-100/90">
-            I design, build, and automate high-leverage systems that reduce waste, accelerate cycle times, and unlock new value using modern AI.
+            Innovation & Change Specialist focused on automation strategy and turning data into action.
           </p>
 
           <div className="mt-8 flex flex-wrap gap-3">

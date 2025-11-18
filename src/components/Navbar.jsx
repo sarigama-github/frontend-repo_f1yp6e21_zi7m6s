@@ -20,8 +20,8 @@ export default function Navbar() {
             <Sparkles className="w-5 h-5" />
           </div>
           <div>
-            <p className="text-white font-semibold tracking-tight leading-none">Process + AI</p>
-            <p className="text-xs text-blue-200/80 leading-none">Portfolio</p>
+            <p className="text-white font-semibold tracking-tight leading-none">Idan Schorr</p>
+            <p className="text-xs text-blue-200/80 leading-none">Innovation & Change • AI + Process Optimisation</p>
           </div>
         </a>
 
@@ -43,7 +43,7 @@ export default function Navbar() {
             <Mail className="w-4 h-4" />
             <span>Get in touch</span>
           </a>
-          <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="p-2 rounded-lg bg-white/5 hover:bg-white/10 border border-white/10 text-white/80 hover:text-white transition">
+          <a href="https://www.linkedin.com/in/idan-schorr" target="_blank" rel="noreferrer" className="p-2 rounded-lg bg-white/5 hover:bg-white/10 border border-white/10 text-white/80 hover:text-white transition">
             <Linkedin className="w-5 h-5" />
           </a>
           <a href="https://github.com" target="_blank" rel="noreferrer" className="p-2 rounded-lg bg-white/5 hover:bg-white/10 border border-white/10 text-white/80 hover:text-white transition">
@@ -73,7 +73,7 @@ export default function Navbar() {
               <Mail className="w-4 h-4" />
               <span>Email</span>
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="p-2 rounded-lg bg-white/5 border border-white/10 text-white/80">
+            <a href="https://www.linkedin.com/in/idan-schorr" target="_blank" rel="noreferrer" className="p-2 rounded-lg bg-white/5 border border-white/10 text-white/80">
               <Linkedin className="w-5 h-5" />
             </a>
             <a href="https://github.com" target="_blank" rel="noreferrer" className="p-2 rounded-lg bg-white/5 border border-white/10 text-white/80">
